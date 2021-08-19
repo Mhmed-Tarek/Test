@@ -19,7 +19,7 @@ Widget getMyAppRootWidget() {
       primarySwatch: Colors.yellow,
     ),
 
-    home: TodoScreen(),
+    home: HomeScreen(),
     debugShowCheckedModeBanner: false,
   );
   return materialAppWidget;
